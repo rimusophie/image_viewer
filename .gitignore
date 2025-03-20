@@ -1,0 +1,5 @@
+*.v2
+*.vsidx
+ImageViewer/ImageViewer/obj/
+ImageViewer/ImageViewer/bin/
+ImageViewer/.vs/
